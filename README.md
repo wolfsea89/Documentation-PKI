@@ -1,6 +1,8 @@
 # pki-documantation
 Create PKI consists of root CA and signing CA.
 
+![Certifacte PKI](docs/certificate.png)
+
 Create directories
 =========
 ```
